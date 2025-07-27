@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823769749766",
+    "project_id": "raseed-404",
+    "storage_bucket": "raseed-404.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823769749766:android:adee14e480941830752687",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxeD157iH9qsEpILq5oUV8NnRi-SIynE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
